@@ -4,7 +4,7 @@
 		$ip = $_GET['domain'];
 	} else {
 		//Set fallback domain
-		$ip = "greiner-mario.at";
+		$ip = "pixelfox.io";
 	}
 
 	function lookupIP($ip){
