@@ -1,11 +1,10 @@
 <?php
     /**
-   * LetterAvatar
-   * 
-   * 
-   * @author Mario Greiner <hello@greiner-mario.at>
-   * @see https://github.com/Mario-Greiner/Snippets/blob/master/PHP/Examples/LetterAvatar.php
-   */
+    * LetterAvatar
+    * 
+    * @author Mario Greiner <hello@greiner-mario.at>
+    * @see https://github.com/mario-to-lowercase/Snippets/blob/master/PHP/Examples/LetterAvatar.php
+    */
     class LetterAvatar {
         /**
          * @var string
