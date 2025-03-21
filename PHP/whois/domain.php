@@ -4,7 +4,7 @@
 		$domain = $_GET['domain'];
 	} else {
 		//Set fallback domain
-		$domain = "greiner-mario.at";
+		$domain = "pixelfox.io";
 	}
 
 	//Whois Serverlist
